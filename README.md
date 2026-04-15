@@ -209,4 +209,4 @@ build_exe.bat
 
 По вопросам обращаться: s.sh.ganizoda@edu.mtuci.ru
 
-Ссылка на GitHub: [https://github.com/Sorbon-Gh/SignalStudio.git]
+Ссылка на GitHub: https://github.com/Sorbon-Gh/SignalStudio.git
